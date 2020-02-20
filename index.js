@@ -2,8 +2,8 @@ const themes = require('insomnia-plugin-core-themes');
 
 module.exports.themes = themes.themes.map(theme => ({
   ...theme,
-  name: `${theme.name}-foldmarker`,
-  displayName: `${theme.displayName} Foldmarker`,
+  name: `${theme.name}-enhanced`,
+  displayName: `✨ ${theme.displayName}`,
   theme: {
     ...theme.theme,
     rawCss: `

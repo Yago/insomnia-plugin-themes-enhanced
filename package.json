@@ -1,5 +1,5 @@
 {
-  "name": "insomnia-plugin-foldmarker",
+  "name": "insomnia-plugin-themes-enhanced",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
@@ -8,8 +8,8 @@
     "url": "https://github.com/Yago/insomnia-plugin-jsonapi"
   },
   "insomnia": {
-    "name": "foldmarker",
-    "description": "Nicer insomnia foldmarker"
+    "name": "themes-enhanced",
+    "description": "Nicer default themes (foldmarker, etc)"
   },
   "dependencies": {
     "insomnia-plugin-core-themes": "^2.1.6"
