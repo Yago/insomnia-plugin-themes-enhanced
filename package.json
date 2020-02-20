@@ -5,7 +5,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Yago/insomnia-plugin-jsonapi"
+    "url": "https://github.com/Yago/insomnia-plugin-themes-enhanced"
   },
   "insomnia": {
     "name": "themes-enhanced",
